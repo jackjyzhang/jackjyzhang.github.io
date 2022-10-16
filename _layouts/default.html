@@ -10,13 +10,17 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1 style="font-size: 1.75em;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p style="font-size: 1.4em;">张景昱</p>
+        <p style="font-size: 1.4em; margin-bottom: 0.5em;">张景昱</p>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -40,8 +44,9 @@
         </ul>
         {% endif %}
         <!-- CUSTOM BUTTONS -->
-        <p class="view"><a href="https://github.com/jackjyzhang">GitHub</a></p>
+        <!-- <p class="view"><a href="https://github.com/jackjyzhang">GitHub</a></p> -->
         <p class="view"><a href="https://www.linkedin.com/in/jackjingyuzhang/">LinkedIn</a></p>
+        <p class="view"><a href="/assets/docs/cv.html">CV</a></p>
         <p class="view"><a href="mailto:jzhan237@jhu.edu">jzhan237@jhu.edu</a></p>
       </header>
       <section>
