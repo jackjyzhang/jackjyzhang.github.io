@@ -12,6 +12,8 @@ My research interest lies in the area of Natural Language Processing, especially
 
 ## Publications
 
+**Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://arxiv.org/abs/2210.07431). *Preprint.*
+
 **Jingyu Zhang**, Alexandra DeLucia, Mark Dredze. [Changes in Tweet Geolocation over Time: A Study with Carmen 2.0](https://aclanthology.org/2022.wnut-1.1/). *Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT), COLING 2022.*
 
 Abhinav Chinta\*, **Jingyu Zhang**\*, Alexandra DeLucia, Anna L. Buzcak, Mark Dredze. [Study of Manifestation of Civil Unrest on Twitter](https://aclanthology.org/2021.wnut-1.44/). *Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT), EMNLP 2021.*
