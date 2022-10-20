@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring Economics.
+I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics.
 
 
 
