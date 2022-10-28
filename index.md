@@ -22,6 +22,6 @@ Abhinav Chinta\*, **Jingyu Zhang**\*, Alexandra DeLucia, Anna L. Buzcak, Mark Dr
 
 ## Teaching
 
-I am a teaching assistant for [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), taught by [Jason Eisner](https://www.cs.jhu.edu/~jason), in Fall 2022 and Fall 2021.
+I am a course assistant for [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), taught by [Jason Eisner](https://www.cs.jhu.edu/~jason), in Fall 2022 and Fall 2021.
 
 I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 2021, hosted by Stanford University.
