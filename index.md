@@ -27,3 +27,10 @@ Abhinav Chinta\*, **Jingyu Zhang**\*, Alexandra DeLucia, Anna L. Buzcak, Mark Dr
 I am a course assistant for [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), taught by [Jason Eisner](https://www.cs.jhu.edu/~jason), in Fall 2022 and Fall 2021.
 
 I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 2021, hosted by Stanford University.
+
+## Service
+- Reviewer: ACL 2023, main conference (Generation track).
+
+<!-- ## Fun Facts
+- I'm a big car person and a fan of [Formula One](https://www.formula1.com/) racing. My favorite driver is [Zhou Guanyu](https://en.wikipedia.org/wiki/Zhou_Guanyu), the first ever Chinese driver to compete in F1.
+- My favorite videogames are Civilization 6 and GTA 5 (tied). -->
