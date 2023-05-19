@@ -2,8 +2,9 @@
 layout: default
 ---
 
-I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics.
+I am an incoming CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html).
 
+I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics.
 
 
 My research interest lies in the area of Natural Language Processing, particularly on topics in neural text generation, commonsense reasoning, and NLP applications to social media. I have been working as a research assistant at the Center for Language and Speech Processing at Johns Hopkins University supervised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I'm also a research assistant at MIT CSAIL working with [Jim Glass](http://people.csail.mit.edu/jrg/), and collaborating with [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington.
@@ -12,9 +13,11 @@ My research interest lies in the area of Natural Language Processing, particular
 
 ## Publications
 
-Tianxing He\*, **Jingyu Zhang**\*, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://arxiv.org/abs/2212.10020). *Preprint*.
+Tianxing He\*, **Jingyu Zhang**\*, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://arxiv.org/abs/2212.10020). *ACL 2023*.
 
-**Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://arxiv.org/abs/2210.07431). *Preprint*. Preliminary version accepted at *2nd Workshop on Efficient Natural Language and Speech Processing (ENLSP), NeurIPS 2022*. **<span style="color:red">*Best Paper Award*</span>**.
+**Jingyu Zhang**, Alexandra DeLucia, Chenyu Zhang, Mark Dredze. [Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning](https://jackz.io/assets/papers/geo-seq2seq.pdf). *Findings of ACL 2023*.
+
+**Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://arxiv.org/abs/2210.07431). **SEM 2023*. Preliminary version accepted at *2nd Workshop on Efficient Natural Language and Speech Processing (ENLSP), NeurIPS 2022*. **<span style="color:red">*Best Paper Award*</span>**.
 
 **Jingyu Zhang**, Alexandra DeLucia, Mark Dredze. [Changes in Tweet Geolocation over Time: A Study with Carmen 2.0](https://aclanthology.org/2022.wnut-1.1/). *Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT), COLING 2022*.
 
