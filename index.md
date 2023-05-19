@@ -4,7 +4,7 @@ layout: default
 
 I am an incoming CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html).
 
-I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics.
+I am a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics. GO HOP! 💙🤍
 
 
 My research interest lies in the area of Natural Language Processing, particularly on topics in neural text generation, commonsense reasoning, and NLP applications to social media. I have been working as a research assistant at the Center for Language and Speech Processing at Johns Hopkins University supervised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I'm also a research assistant at MIT CSAIL working with [Jim Glass](http://people.csail.mit.edu/jrg/), and collaborating with [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington.
