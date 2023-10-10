@@ -15,7 +15,7 @@ My research interest lies in the area of Natural Language Processing, particular
 
 Abe Bohan Hou\*, **Jingyu Zhang**\* Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *ArXiv preprint.*
 
-Xiao Pu, Jingyu Zhang, Xiaochuang Han, Yulia Tsvetkov, Tianxing He. [On the Zero-Shot Generalization of Machine-Generated Text Detectors](http://arxiv.org/abs/2310.05165). *Findings of EMNLP 2023*.
+Xiao Pu, **Jingyu Zhang**, Xiaochuang Han, Yulia Tsvetkov, Tianxing He. [On the Zero-Shot Generalization of Machine-Generated Text Detectors](http://arxiv.org/abs/2310.05165). *Findings of EMNLP 2023*.
 
 Tianxing He\*, **Jingyu Zhang**\*, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://aclanthology.org/2023.acl-long.674). *ACL 2023*. **<span style="color:">*Oral Presentation*</span>**.
 
