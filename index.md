@@ -2,10 +2,9 @@
 layout: default
 ---
 
-I am a first-year CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html).
+I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html).
 
 I completed my undergrad degree also from [Johns Hopkins University](https://www.jhu.edu/) majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics. GO HOP! 💙🤍
-
 
 My research interest lies in the area of Natural Language Processing, particularly on topics related to the safety and trustworthiness of foundation models. In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL.
 
@@ -37,8 +36,10 @@ I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 20
 
 ## Service
 
-- Reviewer, ACL 2023 (Generation track)
-- Reviewer, Workshop on Instruction Tuning and Instruction Following, NeurIPS 2023
+- Reviewing: ACL 2023 (Generation track); Workshop on Instruction Tuning and Instruction Following, NeurIPS 2023
+- Application Mentor, JHU CLSP pre-application support program
+- Curriculum Committee, Department of Computer Science, Johns Hopkins University
+- Recruitment Committee, Center for Language and Speech Processing, Johns Hopkins University
 
 <!-- ## Fun Facts
 - I'm a big car person and a fan of [Formula One](https://www.formula1.com/) racing. My favorite driver is [Zhou Guanyu](https://en.wikipedia.org/wiki/Zhou_Guanyu), the first ever Chinese driver to compete in F1.
