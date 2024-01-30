@@ -12,11 +12,13 @@ My research interest lies in the area of Natural Language Processing, particular
 
 ## Publications
 
-Abe Bohan Hou\*, **Jingyu Zhang**\* Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *ArXiv preprint.*
+Abe Bohan Hou\*, **Jingyu Zhang\*** Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *arXiv preprint.*
+
+Lingfeng Shen, Weiting Tan, Sihao Chen, Yunmo Chen, **Jingyu Zhang**, Haoran Xu, Boyuan Zheng, Philipp Koehn, Daniel Khashabi. [The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts](https://arxiv.org/abs/2401.13136). *arXiv preprint.*
 
 Xiao Pu, **Jingyu Zhang**, Xiaochuang Han, Yulia Tsvetkov, Tianxing He. [On the Zero-Shot Generalization of Machine-Generated Text Detectors](http://arxiv.org/abs/2310.05165). *Findings of EMNLP 2023*.
 
-Tianxing He\*, **Jingyu Zhang**\*, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://aclanthology.org/2023.acl-long.674). *ACL 2023*. **<span style="color:">*Oral Presentation*</span>**.
+Tianxing He\*, **Jingyu Zhang\***, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://aclanthology.org/2023.acl-long.674). *ACL 2023*. **<span style="color:">*Oral Presentation*</span>**.
 
 **Jingyu Zhang**, Alexandra DeLucia, Chenyu Zhang, Mark Dredze. [Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning](https://aclanthology.org/2023.findings-acl.294). *Findings of ACL 2023*.
 
@@ -24,7 +26,7 @@ Tianxing He\*, **Jingyu Zhang**\*, Tianle Wang, Sachin Kumar, Kyunghyun Cho, Jam
 
 **Jingyu Zhang**, Alexandra DeLucia, Mark Dredze. [Changes in Tweet Geolocation over Time: A Study with Carmen 2.0](https://aclanthology.org/2022.wnut-1.1/). *Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT), COLING 2022*.
 
-Abhinav Chinta\*, **Jingyu Zhang**\*, Alexandra DeLucia, Anna L. Buzcak, Mark Dredze. [Study of Manifestation of Civil Unrest on Twitter](https://aclanthology.org/2021.wnut-1.44/). *Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT), EMNLP 2021*.
+Abhinav Chinta\*, **Jingyu Zhang\***, Alexandra DeLucia, Anna L. Buzcak, Mark Dredze. [Study of Manifestation of Civil Unrest on Twitter](https://aclanthology.org/2021.wnut-1.44/). *Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT), EMNLP 2021*.
 
 *Equal Contribution
 
