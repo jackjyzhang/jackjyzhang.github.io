@@ -22,7 +22,7 @@ Tianxing He\*, **Jingyu Zhang\***, Tianle Wang, Sachin Kumar, Kyunghyun Cho, Jam
 
 **Jingyu Zhang**, Alexandra DeLucia, Chenyu Zhang, Mark Dredze. [Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning](https://aclanthology.org/2023.findings-acl.294). *Findings of ACL 2023*.
 
-**Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://arxiv.org/abs/2210.07431). *\*SEM 2023*. Preliminary version accepted at *2nd Workshop on Efficient Natural Language and Speech Processing (ENLSP), NeurIPS 2022*. **<span style="color:">*Best Paper Award*</span>**.
+**Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://aclanthology.org/2023.starsem-1.27). *\*SEM 2023*. Preliminary version accepted at *2nd Workshop on Efficient Natural Language and Speech Processing (ENLSP), NeurIPS 2022*. **<span style="color:">*Best Paper Award*</span>**.
 
 **Jingyu Zhang**, Alexandra DeLucia, Mark Dredze. [Changes in Tweet Geolocation over Time: A Study with Carmen 2.0](https://aclanthology.org/2022.wnut-1.1/). *Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT), COLING 2022*.
 
