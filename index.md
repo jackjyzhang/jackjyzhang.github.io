@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I completed my undergraduate degree also from JHU majoring in Computer Science, Mathematics, Applied Mathematics and Statistics, and minoring in Economics. GO HOP! 💙🤍
+I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
 
 My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models. In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL.
 
@@ -51,7 +51,7 @@ I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 20
 
 ## Misc
 
-🏎️🏎️🏎️ In my free time, I enjoy go-karting and sim racing. I'm a big car enthusiast and watch motorsports such as [formula 1](https://www.formula1.com/). My favorite driver is [Zhou Guanyu](https://en.wikipedia.org/wiki/Zhou_Guanyu), the first ever Chinese driver to compete in F1.
+🏎️🏎️🏎️ In my free time, I enjoy go-karting and sim racing. I'm a big car enthusiast and love watching motorsports such as [formula 1](https://www.formula1.com/). My favorite driver is [Zhou Guanyu](https://en.wikipedia.org/wiki/Zhou_Guanyu), the first ever Chinese driver to compete in F1.
 
 
 <!-- ## Fun Facts
