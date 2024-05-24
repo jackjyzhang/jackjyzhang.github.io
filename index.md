@@ -10,6 +10,8 @@ My research interest lies in the area of natural language processing, particular
 
 ## Publications
 
+Weiting Tan, **Jingyu Zhang**, Lingfeng Shen, Daniel Khashabi, Philipp Koehn. [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://arxiv.org/abs/2405.13274). *arXiv preprint*.
+
 **Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *arXiv preprint*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses](https://arxiv.org/abs/2404.04298). *arXiv preprint*.
