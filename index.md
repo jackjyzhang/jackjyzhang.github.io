@@ -19,7 +19,7 @@ In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdre
 
 <!-- code for highlighting below -->
 <!-- <span style="background-color: #FFFF99;"></span> -->
-Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme and Daniel Khashabi. Rationalyst: [Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *arXiv preprint*.
+Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme and Daniel Khashabi. [Rationalyst: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *arXiv preprint*.
 
 Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu and Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *arXiv preprint*.
 
