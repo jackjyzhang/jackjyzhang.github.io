@@ -2,23 +2,34 @@
 layout: default
 ---
 
-I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I'm also a student researcher (part-time) at Microsoft.
+I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I'm also a part-time student researcher at Microsoft.
 
-My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models. In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL.
+My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs.
 
-I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
+<!-- My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models.  -->
+
+In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
 
 <!-- I can be reached at [jzhan237@jhu.edu](mailto:jzhan237@jhu.edu). -->
 
 ## Publications
+<!-- one example https://yzpang.github.io/ -->
 
-Weiting Tan, **Jingyu Zhang**, Lingfeng Shen, Daniel Khashabi, Philipp Koehn. [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://arxiv.org/abs/2405.13274). *arXiv preprint*.
+<!-- add core and rationalyst -->
+
+<!-- code for highlighting below -->
+<!-- <span style="background-color: #FFFF99;"></span> -->
+Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme and Daniel Khashabi. Rationalyst: [Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *arXiv preprint*.
+
+Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu and Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *arXiv preprint*.
 
 **Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *arXiv preprint*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses](https://arxiv.org/abs/2404.04298). *arXiv preprint*.
 
 Kevin Xu, Yeganeh Kordi, Kate Sanders, Yizhong Wang, Adam Byerly, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [TurkingBench: A Challenge Benchmark for Web Agents](https://arxiv.org/abs/2403.11905). *arXiv preprint*.
+
+Weiting Tan, **Jingyu Zhang**, Lingfeng Shen, Daniel Khashabi, Philipp Koehn. [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://arxiv.org/abs/2405.13274). *NeurIPS 2024*.
 
 Abe Bohan Hou, **Jingyu Zhang**, Yichen Wang, Daniel Khashabi, Tianxing He. [k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text](https://arxiv.org/abs/2402.11399). *Findings of ACL 2024*.
 
@@ -48,7 +59,7 @@ I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 20
 
 ## Service
 
-- Reviewing: ACL 2023 (Generation track); Workshop on Instruction Tuning and Instruction Following, NeurIPS 2023, NAACL 2024
+<!-- - Reviewing: ACL, NAACL, NeurIPS -->
 - Application Mentor, JHU CLSP pre-application support program
 - Curriculum Committee, Department of Computer Science, Johns Hopkins University
 - Recruitment Committee, Center for Language and Speech Processing, Johns Hopkins University
