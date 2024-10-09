@@ -6,7 +6,7 @@ I am a CS PhD student at the [Center for Language and Speech Processing](https:/
 
 <!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
 
-My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models. My recent work focuses on safety alignment and improving attribution of LLMs.
+My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models. My recent work focuses on safety alignment and enhancing attribution of LLMs.
 
 In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
 
