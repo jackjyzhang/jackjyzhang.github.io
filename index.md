@@ -23,7 +23,7 @@ Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu
 
 Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu and Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *arXiv preprint*.
 
->**Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *arXiv preprint*.
+**Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *arXiv preprint*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses](https://arxiv.org/abs/2404.04298). *arXiv preprint*.
 
