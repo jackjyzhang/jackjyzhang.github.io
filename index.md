@@ -19,6 +19,8 @@ In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdre
 
 <!-- code for highlighting below -->
 <!-- <span style="background-color: #FFFF99;"></span> -->
+**Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *arXiv preprint*.
+
 Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi. [Rationalyst: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *arXiv preprint*.
 
 Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *arXiv preprint*.
