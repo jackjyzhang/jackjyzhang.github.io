@@ -25,11 +25,11 @@ Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu
 
 Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *arXiv preprint*.
 
-**Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *arXiv preprint*.
+**Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *NAACL 2025*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses](https://arxiv.org/abs/2404.04298). *AAAI 2025*.
 
-Kevin Xu, Yeganeh Kordi, Kate Sanders, Yizhong Wang, Adam Byerly, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [TurkingBench: A Challenge Benchmark for Web Agents](https://arxiv.org/abs/2403.11905). *arXiv preprint*.
+Kevin Xu, Yeganeh Kordi, Kate Sanders, Yizhong Wang, Adam Byerly, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [TurkingBench: A Challenge Benchmark for Web Agents](https://arxiv.org/abs/2403.11905). *NAACL 2025*.
 
 Weiting Tan, **Jingyu Zhang**, Lingfeng Shen, Daniel Khashabi, Philipp Koehn. [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://arxiv.org/abs/2405.13274). *NeurIPS 2024*.
 
