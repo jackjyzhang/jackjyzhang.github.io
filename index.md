@@ -26,11 +26,96 @@ In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdre
 
 ## Selected Works
 
-**Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*.
+<!-- **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*. -->
 
-**Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *NAACL 2025 (oral)*.
+<!-- <div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <img src="assets/img/cosa.png" alt="Image description" width="400px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/abs/2410.08968">Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements</a></strong>
+    <br><strong>Jingyu Zhang</strong>, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme.
+    <br><em>ICLR 2025</em>
+    <p></p>
+    <p>The current paradigm for safety alignment of large language models (LLMs) follows a one-size-fits-all approach and lacks flexibility in the face of varying social norms across cultures, and diverse user needs. We propose Controllable Safety Alignment, a framework that adapt models to diverse safety requirements without re-training.</p>
+  </div>
+</div> -->
 
-Abe Bohan Hou\*, **Jingyu Zhang\***, Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *NAACL 2024*.
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/cosa.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2410.08968">Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme.
+        <br><em>ICLR 2025</em>
+        <p></p>
+        <p>The current paradigm for safety alignment of large language models (LLMs) follows a one-size-fits-all approach and lacks flexibility in the face of varying social norms across cultures, and diverse user needs. We propose Controllable Safety Alignment, a framework that adapt models to diverse safety requirements without re-training.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/qt.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2404.03862">Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi.
+        <br><em>NAACL 2025 (oral)</em>
+        <p></p>
+        <p>To trust the fluent generations of large language models, humans must be able to verify their correctness against trusted external sources. We trivialize the verification process by developing models that quote verbatim statements from trusted sources in their pre-training data.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/semstamp.jpg" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2310.03991">SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation</a></strong>
+        <br>Abe Bohan Hou*, <strong>Jingyu Zhang*</strong>, Tianxing He*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov.
+        <br><em>NAACL 2024</em>
+        <p></p>
+        <p>Existing watermarking algorithms are vulnerable to paraphrase attacks because of their token-level design. To address this issue, we propose SemStamp, a robust sentence-level semantic watermarking algorithm based on locality-sensitive hashing (LSH), which partitions the semantic space of sentences.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- --- -->
+
+<!-- **Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *NAACL 2025 (oral)*. -->
+
+<!-- <div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <img src="assets/img/qt.png" alt="Image description" width="400px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/abs/2404.03862">Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data</a></strong>
+    <br><strong>Jingyu Zhang</strong>, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi.
+    <br><em>NAACL 2025 (oral)</em>
+    <p></p>
+    <p>To trust the fluent generations of large language models, humans must be able to verify their correctness against trusted external sources. We trivialize the verification process by developing models that quote verbatim statements from trusted sources in their pre-training data.</p>
+  </div>
+</div> -->
+
+<!-- --- -->
+
+<!-- Abe Bohan Hou\*, **Jingyu Zhang\***, Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *NAACL 2024*. -->
+
+<!-- <div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <img src="assets/img/semstamp.jpg" alt="Image description" width="400px">
+  </div>
+  <div>
+    <strong><a href="https://arxiv.org/abs/2310.03991">SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation</a></strong>
+    <br>Abe Bohan Hou*, <strong>Jingyu Zhang*</strong>, Tianxing He*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov.
+    <br><em>NAACL 2024</em>
+    <p></p>
+    <p>Existing watermarking algorithms are vulnerable to paraphrase attacks because of their token-level design. To address this issue, we propose SemStamp, a robust sentence-level semantic watermarking algorithm based on locality-sensitive hashing (LSH), which partitions the semantic space of sentences.</p>
+  </div>
+</div> -->
 
 ## All Publications
 
