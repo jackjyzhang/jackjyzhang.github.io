@@ -13,12 +13,19 @@ In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdre
 <!-- I can be reached at [jzhan237@jhu.edu](mailto:jzhan237@jhu.edu). -->
 
 ## Publications
+<!-- TODO: write some detailed descriptions of selected works -->
+<!-- a good example: https://bencw99.github.io/ -->
+
+
+
 <!-- one example https://yzpang.github.io/ -->
 
-<!-- add core and rationalyst -->
 
 <!-- code for highlighting below -->
 <!-- <span style="background-color: #FFFF99;"></span> -->
+
+Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Liang, Daniel Khashabi, Lauren Gardner, Tianxing He. [Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy](https://arxiv.org/pdf/2503.09639). *arXiv preprint*
+
 **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*.
 
 Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi. [Rationalyst: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *arXiv preprint*.
