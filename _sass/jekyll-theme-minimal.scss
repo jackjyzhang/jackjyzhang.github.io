@@ -56,8 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:90%;
+  width:100%;
   margin:0 auto;
+  max-width: 1500px;
 }
 
 blockquote {
@@ -118,11 +119,19 @@ kbd {
   vertical-align: middle;
 }
 
+// header {
+//   width:270px;
+//   float:left;
+//   position:fixed;
+//   -webkit-font-smoothing:subpixel-antialiased;
+// }
+
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 350px;
+  max-width: 15%;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 ul.downloads {
@@ -185,8 +194,13 @@ strong {
   color:#222;
 }
 
+// section {
+//   width:500px;
+//   float:right;
+//   padding-bottom:50px;
+// }
 section {
-  width:500px;
+  width:75%;
   float:right;
   padding-bottom:50px;
 }
