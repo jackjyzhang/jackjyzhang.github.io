@@ -119,6 +119,8 @@ In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdre
 
 ## All Publications
 
+**Jingyu Zhang**, Jiacan Yu, Marc Marone, Benjamin Van Durme, Daniel Khashabi. [Certified Mitigation of Worst-Case LLM Copyright Infringement](https://arxiv.org/abs/2504.16046). *arXiv preprint*.
+
 Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Liang, Daniel Khashabi, Lauren Gardner, Tianxing He. [Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy](https://arxiv.org/pdf/2503.09639). *arXiv preprint*
 
 **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*.
