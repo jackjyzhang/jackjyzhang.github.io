@@ -8,7 +8,9 @@ I am a CS PhD student at the [Center for Language and Speech Processing](https:/
 
 My research interest lies in the area of natural language processing, particularly in the **safety**, **trustworthiness**, and **alignment** of foundation models. My recent work focuses on safety alignment and enhancing verifiability of LLMs.
 
-In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://people.csail.mit.edu/cloudygoose/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
+In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://cloudygoose.github.io/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
+
+I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
 
 <!-- I can be reached at [jzhan237@jhu.edu](mailto:jzhan237@jhu.edu). -->
 
