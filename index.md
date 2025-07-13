@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a CS PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I'm also a part-time student researcher at Microsoft.
+I am a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I am currently a research intern at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html), and was previously a research intern and student researcher at Microsoft from 2024-2025.
 
 <!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
 
@@ -125,7 +125,7 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 **Jingyu Zhang**, Jiacan Yu, Marc Marone, Benjamin Van Durme, Daniel Khashabi. [Certified Mitigation of Worst-Case LLM Copyright Infringement](https://arxiv.org/abs/2504.16046). *arXiv preprint*.
 
-Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Liang, Daniel Khashabi, Lauren Gardner, Tianxing He. [Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy](https://arxiv.org/pdf/2503.09639). *arXiv preprint*
+Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Liang, Daniel Khashabi, Lauren Gardner, Tianxing He. [Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy](https://arxiv.org/pdf/2503.09639). *COLM 2025*
 
 **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*.
 
