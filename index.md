@@ -48,6 +48,18 @@ I'm always excited about collaborations. If you are interested in working togeth
   <tbody>
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/waltz.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2410.08968">The Alignment Waltz: Jointly Training Agents to Collaborate for Safety</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan.
+        <br><em>arXiv preprint</em>
+        <p></p>
+        <p>We introduce WaltzRL, a multi-agent RL framework that frames LLM safety as a positive-sum game between a conversation agent and a feedback agent. We introduce a novel Dynamic Improvement Reward to jointly train two agents to collaborate, and give feedback adaptively at inference. WaltzRL improves safety & reduces overrefusals without degrading general capabilities.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
         <img src="assets/img/cosa.png" alt="Image description" width="220">
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
