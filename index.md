@@ -53,7 +53,7 @@ I'm always excited about collaborations. If you are interested in working togeth
         <img src="assets/img/waltz.png" alt="Image description" width="220">
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
-        <strong><a href="https://arxiv.org/abs/2410.08968">The Alignment Waltz: Jointly Training Agents to Collaborate for Safety</a></strong>
+        <strong><a href="https://arxiv.org/abs/2510.08240">The Alignment Waltz: Jointly Training Agents to Collaborate for Safety</a></strong>
         <br><strong>Jingyu Zhang</strong>, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan.
         <br><em>arXiv preprint</em>
         <p></p>
