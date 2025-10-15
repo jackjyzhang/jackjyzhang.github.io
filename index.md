@@ -6,7 +6,9 @@ I am a PhD student at the [Center for Language and Speech Processing](https://ww
 
 <!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
 
-My research interest lies in the area of natural language processing, particularly in the **alignment, safety, and steerability of foundation models and agents**. My recent research centers on pluralistic alignment, verifiable LLMs, and renewable evaluation benchmarks for safety.
+<!-- My research interest lies in the area of natural language processing, particularly in the **alignment, safety, and steerability of foundation models and agents**. My recent research centers on pluralistic alignment, verifiable LLMs, and renewable evaluation benchmarks for safety. -->
+
+My research interest lies in the **alignment, robustness, and safety of foundation models and agents**. My recent works center on multi-agent reinforcement learning, pluralistic alignment, and renewable evaluation benchmarks. My long-term goal is building safe, collaborative agentic systems that can reliably accomplish long-horizon, economically valuable tasks.
 
 In the past, I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://cloudygoose.github.io/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
 
