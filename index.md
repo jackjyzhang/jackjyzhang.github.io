@@ -135,6 +135,10 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 ## All Publications
 
+Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *arXiv preprint*.
+
+**Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *arXiv preprint*.
+
 **Jingyu Zhang**, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson. [Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037). *Findings of EMNLP 2025*.
 
 **Jingyu Zhang**, Jiacan Yu, Marc Marone, Benjamin Van Durme, Daniel Khashabi. [Certified Mitigation of Worst-Case LLM Copyright Infringement](https://arxiv.org/abs/2504.16046). *EMNLP 2025*.
