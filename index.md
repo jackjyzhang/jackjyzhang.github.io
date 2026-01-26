@@ -57,7 +57,7 @@ I'm always excited about collaborations. If you are interested in working togeth
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong><a href="https://arxiv.org/abs/2510.08240">The Alignment Waltz: Jointly Training Agents to Collaborate for Safety</a></strong>
         <br><strong>Jingyu Zhang</strong>, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan.
-        <br><em>arXiv preprint</em>
+        <br><em>ICLR 2026</em>
         <p></p>
         <p>We introduce WaltzRL, a multi-agent RL framework that frames LLM safety as a positive-sum game between a conversation agent and a feedback agent. We introduce a novel Dynamic Improvement Reward to jointly train two agents to collaborate, and give feedback adaptively at inference. WaltzRL improves safety & reduces overrefusals without degrading general capabilities.</p>
       </td>
@@ -139,7 +139,7 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *arXiv preprint*.
 
-**Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *arXiv preprint*.
+**Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *ICLR 2026*.
 
 **Jingyu Zhang**, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson. [Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037). *Findings of EMNLP 2025*.
 
