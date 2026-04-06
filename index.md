@@ -2,19 +2,19 @@
 layout: default
 ---
 
-I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research at JHU is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/). I am also a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/).
-
-<!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
-
-<!-- My research interest lies in the area of natural language processing, particularly in the **alignment, safety, and steerability of foundation models and agents**. My recent research centers on pluralistic alignment, verifiable LLMs, and renewable evaluation benchmarks for safety. -->
-
-<!-- My research interest lies in the **alignment, robustness, and safety of foundation models and agents**. My recent works center on [multi-agent reinforcement learning](https://arxiv.org/abs/2510.08240), [pluralistic alignment](https://arxiv.org/abs/2410.08968), and [renewable benchmarks](https://arxiv.org/abs/2505.22037). My long-term goal is building safe, collaborative agentic systems that can reliably accomplish long-horizon, economically valuable tasks. -->
+I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research at JHU is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/). Recently, I was a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/).
 
 My research centers on the post-training of foundation models and agents, with an emphasis on their **alignment and robustness**. I aim to develop **adaptive, controllable** methods that simultaneously advance model capability alongside safety and adversarial robustness. For instance, my recent work leverages reinforcement learning to enable [multi-agent collaboration](https://arxiv.org/abs/2510.08240) and [adaptation to diverse values](https://arxiv.org/abs/2410.08968), and develops [renewable evaluation benchmarks](https://arxiv.org/abs/2505.22037) that scale with rapidly evolving model capabilities. My long-term goal is to build safe, collaborative agentic systems that reliably accomplish long-horizon, economically valuable tasks.
 
 Previously, I was a research intern and student researcher at Microsoft from 2024-2025 working with [Ahmed Elgohary Ghoneim](https://aagohary.github.io/). I have collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://cloudygoose.github.io/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍
 
 I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
+
+<!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
+
+<!-- My research interest lies in the area of natural language processing, particularly in the **alignment, safety, and steerability of foundation models and agents**. My recent research centers on pluralistic alignment, verifiable LLMs, and renewable evaluation benchmarks for safety. -->
+
+<!-- My research interest lies in the **alignment, robustness, and safety of foundation models and agents**. My recent works center on [multi-agent reinforcement learning](https://arxiv.org/abs/2510.08240), [pluralistic alignment](https://arxiv.org/abs/2410.08968), and [renewable benchmarks](https://arxiv.org/abs/2505.22037). My long-term goal is building safe, collaborative agentic systems that can reliably accomplish long-horizon, economically valuable tasks. -->
 
 <!-- I can be reached at [jzhan237@jhu.edu](mailto:jzhan237@jhu.edu). -->
 
@@ -137,7 +137,11 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 ## All Publications
 
-Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *arXiv preprint*.
+Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *arXiv preprint*.
+
+Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over mathematical objects: on-policy reward modeling and test time aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
+
+Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *Findings of ACL 2026*.
 
 **Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *ICLR 2026*.
 
