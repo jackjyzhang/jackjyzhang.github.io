@@ -52,6 +52,18 @@ I'm always excited about collaborations. If you are interested in working togeth
   <tbody>
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/manyih.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2604.09443">Many-Tier Instruction Hierarchy in LLM Agents</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi.
+        <br><em>arXiv preprint</em>
+        <p></p>
+        <p>LLM agents receive instructions from many sources with varying levels of trust, but existing instruction hierarchy approaches assume only a few rigid role labels. We propose Many-Tier Instruction Hierarchy (ManyIH) for resolving conflicts among arbitrarily many privilege levels, and introduce ManyIH-Bench, the first benchmark for ManyIH spanning up to 12 levels of conflicting instructions.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
         <img src="assets/img/waltz.png" alt="Image description" width="220">
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
@@ -136,6 +148,10 @@ I'm always excited about collaborations. If you are interested in working togeth
 </div> -->
 
 ## All Publications
+
+**Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *arXiv preprint*.
+
+Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *arXiv preprint*.
 
 Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *arXiv preprint*.
 
