@@ -130,6 +130,10 @@ kbd {
 
 header {
   width: 15%;
+  // position:fixed resolves % against the viewport, but .wrapper is capped at
+  // 1500px. Without this cap the sidebar keeps widening on very wide screens
+  // and overlaps <section>. 225px == 15% of the wrapper's 1500px max-width.
+  max-width: 225px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
