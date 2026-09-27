@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/). I expect to graduate in 2027.
+I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
 
-My research focuses on **post-training and alignment for LLM agents**. I develop training and evaluation methods that enable **specifiable and controllable model behavior**, with an emphasis on robustness and generalization across deployment settings. My recent work involves reinforcement learning for [multi-agent collaboration](https://arxiv.org/abs/2510.08240), [safety adaptation](https://arxiv.org/abs/2410.08968), and stress-tests [instruction hierarchy under multi-level conflicts](https://arxiv.org/abs/2604.09443). I aim to build agentic systems that reliably complete long-horizon, economically valuable tasks.
+My research focuses on **post-training and alignment for LLM agents**. I develop training and evaluation methods that enable robust generalization through reasoning over behaviorial specification and learning from interaction. My recent work involves reinforcement learning for [multi-agent collaboration](https://arxiv.org/abs/2510.08240), [safety adaptation](https://arxiv.org/abs/2410.08968), and stress-tests [instruction hierarchy under multi-level conflicts](https://arxiv.org/abs/2604.09443). I aim to build agentic systems that reliably complete long-horizon, economically valuable tasks.
 
 I was an intern at Apple AIML, where I worked on Apple Foundation Model alignment working with [Joseph Yitan Cheng](https://scholar.google.com/citations?user=kq0bsOwAAAAJ&hl=en) and [Shruti Palaskar](https://shrutijpalaskar.github.io/), a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/), and a research intern and student researcher at Microsoft from 2024-2025 working with [Ahmed Elgohary Ghoneim](https://aagohary.github.io/).
 
@@ -13,13 +13,11 @@ I completed my B.S. also from JHU with majors in Computer Science, Mathematics, 
 I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
 
 <aside class="job-market" aria-label="Job market announcement">
-  <p class="job-market-lead">🚨 I am <strong>on the job market for research scientist positions starting in early 2027</strong>.</p>
-  <p>My focus: <strong>LLM post-training · Agent alignment &amp; safety · Long-horizon reliability</strong>.</p>
-  <p>Please reach out if you see a good fit!</p>
+  <p class="job-market-text">🚨 I am on the industry job market! Seeking <strong>research scientist positions starting in early 2027</strong>. My research focuses on LLM post-training, alignment and safety, and long-horizon agents. Please reach out if you see a fit!</p>
   <nav class="job-market-links" aria-label="Job market contact links">
     <a href="/assets/docs/CV.pdf">CV</a>
     <a href="https://scholar.google.com/citations?user=9EC0sDMAAAAJ&amp;hl=en">Google Scholar</a>
-    <a href="mailto:jzhan237@jhu.edu">Email me</a>
+    <a href="mailto:jzhan237@jhu.edu">Email</a>
   </nav>
 </aside>
 
@@ -63,13 +61,6 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
-    <tr>
-      <td colspan="2" style="padding:20px;vertical-align:middle">
-        <strong>SIGMA: Self-Improving Alignment Generalization from a Model Spec</strong>
-        <br><strong>Jingyu Zhang</strong>, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon Gatys, Joseph Yitan Cheng.
-        <br><em>ICLR 2027 submission</em>
-      </td>
-    </tr>
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <img src="assets/img/manyih.png" alt="Image description" width="220">
@@ -169,8 +160,6 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 ## All Publications
 
-**Jingyu Zhang**, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon Gatys, Joseph Yitan Cheng. SIGMA: Self-Improving Alignment Generalization from a Model Spec. *ICLR 2027 submission*.
-
 Taha Entesari, **Jingyu Zhang**, Daniel Khashabi, Mahyar Fazlyab. [Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218). *NeurIPS 2026*.
 
 Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict. *Findings of EMNLP 2026*.
@@ -234,24 +223,9 @@ Abhinav Chinta\*, **Jingyu Zhang\***, Alexandra DeLucia, Anna L. Buczak, Mark Dr
 
 ## Teaching & Mentorship
 
-I am the head teaching assistant for EN.601.471/671: NLP: Self-supervised Models, taught by [Daniel Khashabi](https://danielkhashabi.com/), in Fall 2026.
-
-I was a course assistant for [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), taught by [Jason Eisner](https://www.cs.jhu.edu/~jason), in Fall 2022 and Fall 2021.
-
-I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 2021, hosted by Stanford University.
-
-I have mentored Abe Bohan Hou (JHU undergraduate, now a PhD student at Stanford), Matt Hexuan Wang (JHU undergraduate), and Jiacan Yu (JHU master’s student).
-
-## Awards & Honors
-
-- Amazon AI PhD Fellowship
-- ICLR 2026 Travel Grant
-- Michael J. Muuss Research Award (2023)
-- Best Paper Award, ENLSP Workshop at NeurIPS 2022
-- Pistritto Research Fellowship (2022)
-- Bloomberg Distinguished Professor Summer Program (2021)
-- Upsilon Pi Epsilon
-- National Olympiad in Informatics in Provinces, National 1st Prize Certification (2018)
+- Head TA, [EN.601.471/671: NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/fa2026/), Fall 2026.
+- Course Assistant, [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), Fall 2022 and Fall 2021.
+- Section Leader, [Code in Place](https://codeinplace.stanford.edu/) 2021, hosted by Stanford University.
 
 ## Service
 
