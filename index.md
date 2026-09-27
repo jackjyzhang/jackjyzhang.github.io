@@ -13,7 +13,7 @@ I completed my B.S. also from JHU with majors in Computer Science, Mathematics, 
 I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
 
 <aside class="job-market" aria-label="Job market announcement">
-  <p class="job-market-text">🚨 I am on the industry job market! Seeking <strong>research scientist positions starting in early 2027</strong>. My research focuses on LLM post-training, alignment and safety, and long-horizon agents. Please reach out if you see a fit!</p>
+  <p class="job-market-text">🚨 I am on the industry job market, seeking <strong>research scientist roles starting in early 2027</strong>. My research focuses on LLM post-training, alignment and safety, and long-horizon agents. Please reach out if you see a fit!</p>
   <nav class="job-market-links" aria-label="Job market contact links">
     <a href="/assets/docs/CV.pdf">CV</a>
     <a href="https://scholar.google.com/citations?user=9EC0sDMAAAAJ&amp;hl=en">Google Scholar</a>
