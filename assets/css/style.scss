@@ -2,3 +2,56 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.job-market {
+  margin: 24px 0 32px;
+  padding: 20px 24px;
+  background: #eef6fc;
+  border: 1px solid #c9dfef;
+  border-left: 4px solid #267cb9;
+  border-radius: 6px;
+  color: #33485a;
+}
+
+.job-market p {
+  margin: 0 0 10px;
+}
+
+.job-market .job-market-lead {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.job-market strong {
+  color: #203e57;
+}
+
+.job-market-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-top: 14px;
+}
+
+.job-market-links a {
+  color: #195f91;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.job-market-links a:hover,
+.job-market-links a:focus-visible {
+  color: #123f60;
+}
+
+.job-market-links a:focus-visible {
+  outline: 2px solid #267cb9;
+  outline-offset: 4px;
+}
+
+@media screen and (max-width: 480px) {
+  .job-market {
+    padding: 16px;
+  }
+}

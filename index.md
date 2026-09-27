@@ -2,15 +2,26 @@
 layout: default
 ---
 
-I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research at JHU is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
+I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/). I expect to graduate in 2027.
 
-I am also an intern at Apple  AIML working on Apple Foundation Model alignment, in Cupertino, CA. Previously, I was a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/), and a research intern and student researcher at Microsoft from 2024-2025 working with [Ahmed Elgohary Ghoneim](https://aagohary.github.io/).
+My research focuses on **post-training and alignment for LLM agents**. I develop training and evaluation methods that enable **specifiable and controllable model behavior**, with an emphasis on robustness and generalization across deployment settings. My recent work involves reinforcement learning for [multi-agent collaboration](https://arxiv.org/abs/2510.08240), [safety adaptation](https://arxiv.org/abs/2410.08968), and stress-tests [instruction hierarchy under multi-level conflicts](https://arxiv.org/abs/2604.09443). I aim to build agentic systems that reliably complete long-horizon, economically valuable tasks.
 
-My research centers on the post-training of foundation models and agents, with an emphasis on their **alignment and robustness**. I aim to develop **adaptive, controllable** methods that simultaneously advance model capability alongside safety and adversarial robustness. My recent work leverages reinforcement learning to enable [multi-agent collaboration](https://arxiv.org/abs/2510.08240) and [adaptation to diverse values](https://arxiv.org/abs/2410.08968), and develops [renewable evaluation benchmarks](https://arxiv.org/abs/2505.22037) that scale with rapidly evolving model capabilities. My long-term goal is to build safe, collaborative agentic systems that reliably accomplish long-horizon, economically valuable tasks, and push forward scientific frontiers.
+I was an intern at Apple AIML, where I worked on Apple Foundation Model alignment working with [Joseph Yitan Cheng](https://scholar.google.com/citations?user=kq0bsOwAAAAJ&hl=en) and [Shruti Palaskar](https://shrutijpalaskar.github.io/), a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/), and a research intern and student researcher at Microsoft from 2024-2025 working with [Ahmed Elgohary Ghoneim](https://aagohary.github.io/).
 
 I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍💙 During my undergrad, I collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://cloudygoose.github.io/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. 
 
 I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
+
+<aside class="job-market" aria-label="Job market announcement">
+  <p class="job-market-lead">🚨 I am <strong>on the job market for research scientist positions starting in early 2027</strong>.</p>
+  <p>My focus: <strong>LLM post-training · Agent alignment &amp; safety · Long-horizon reliability</strong>.</p>
+  <p>Please reach out if you see a good fit!</p>
+  <nav class="job-market-links" aria-label="Job market contact links">
+    <a href="/assets/docs/CV.pdf">CV</a>
+    <a href="https://scholar.google.com/citations?user=9EC0sDMAAAAJ&amp;hl=en">Google Scholar</a>
+    <a href="mailto:jzhan237@jhu.edu">Email me</a>
+  </nav>
+</aside>
 
 <!-- My research interest lies in the area of natural language processing. I am particularly interested in the responsible development and deployment of foundation models. Recently, I am focusing on safety alignment and enhancing attribution of LLMs. -->
 
@@ -53,13 +64,20 @@ I'm always excited about collaborations. If you are interested in working togeth
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
+      <td colspan="2" style="padding:20px;vertical-align:middle">
+        <strong>SIGMA: Self-Improving Alignment Generalization from a Model Spec</strong>
+        <br><strong>Jingyu Zhang</strong>, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon Gatys, Joseph Yitan Cheng.
+        <br><em>ICLR 2027 submission</em>
+      </td>
+    </tr>
+    <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <img src="assets/img/manyih.png" alt="Image description" width="220">
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong><a href="https://arxiv.org/abs/2604.09443">Many-Tier Instruction Hierarchy in LLM Agents</a></strong>
         <br><strong>Jingyu Zhang</strong>, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi.
-        <br><em>arXiv preprint</em>
+        <br><em>Findings of EMNLP 2026</em>
         <p></p>
         <p>LLM agents receive instructions from many sources with varying levels of trust, but existing instruction hierarchy approaches assume only a few rigid role labels. We propose Many-Tier Instruction Hierarchy (ManyIH) for resolving conflicts among arbitrarily many privilege levels, and introduce ManyIH-Bench, the first benchmark for ManyIH spanning up to 12 levels of conflicting instructions.</p>
       </td>
@@ -151,13 +169,23 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 ## All Publications
 
-**Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *arXiv preprint*.
+**Jingyu Zhang**, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon Gatys, Joseph Yitan Cheng. SIGMA: Self-Improving Alignment Generalization from a Model Spec. *ICLR 2027 submission*.
 
-Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *arXiv preprint*.
+Taha Entesari, **Jingyu Zhang**, Daniel Khashabi, Mahyar Fazlyab. [Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218). *NeurIPS 2026*.
 
-Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *arXiv preprint*.
+Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict. *Findings of EMNLP 2026*.
 
-Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over mathematical objects: on-policy reward modeling and test time aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
+Tianjian Li, **Jingyu Zhang**, William Jurayj, Xi Wang, Chuanyang Jin, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi. [Self-Compacting Language Model Agents](https://arxiv.org/abs/2606.23525). *NeurIPS 2026*.
+
+Alexander K. Saeri, Jess Graham, Michael Noetel, Peter Slattery, …, **Jingyu Zhang**, … (188 authors). Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts. *arXiv preprint*.
+
+**Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *Findings of EMNLP 2026*.
+
+Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *AAAI 2027 submission*.
+
+Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *ACL ARR submission*.
+
+Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over Mathematical Objects: On-Policy Reward Modeling and Test Time Aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
 
 Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *Findings of ACL 2026*.
 
@@ -175,7 +203,7 @@ Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu
 
 Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *Findings of ACL 2025*.
 
-Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses](https://arxiv.org/abs/2404.04298). *AAAI 2025*.
+Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Discriminating Self-Generated Responses](https://arxiv.org/abs/2404.04298). *AAAI 2025*.
 
 **Jingyu Zhang**, Marc Marone, Tianjian Li, Benjamin Van Durme, Daniel Khashabi. [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](https://arxiv.org/abs/2404.03862). *NAACL 2025 (oral)*.
 
@@ -200,22 +228,37 @@ Tianxing He\*, **Jingyu Zhang\***, Tianle Wang, Sachin Kumar, Kyunghyun Cho, Jam
 
 **Jingyu Zhang**, Alexandra DeLucia, Mark Dredze. [Changes in Tweet Geolocation over Time: A Study with Carmen 2.0](https://aclanthology.org/2022.wnut-1.1/). *Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT), COLING 2022*.
 
-Abhinav Chinta\*, **Jingyu Zhang\***, Alexandra DeLucia, Anna L. Buzcak, Mark Dredze. [Study of Manifestation of Civil Unrest on Twitter](https://aclanthology.org/2021.wnut-1.44/). *Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT), EMNLP 2021*.
+Abhinav Chinta\*, **Jingyu Zhang\***, Alexandra DeLucia, Anna L. Buczak, Mark Dredze. [Study of Manifestation of Civil Unrest on Twitter](https://aclanthology.org/2021.wnut-1.44/). *Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT), EMNLP 2021*.
 
 *Equal Contribution
 
-## Teaching
+## Teaching & Mentorship
+
+I am the head teaching assistant for EN.601.471/671: NLP: Self-supervised Models, taught by [Daniel Khashabi](https://danielkhashabi.com/), in Fall 2026.
 
 I was a course assistant for [EN.601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/), taught by [Jason Eisner](https://www.cs.jhu.edu/~jason), in Fall 2022 and Fall 2021.
 
 I was a section leader for [Code in Place](https://codeinplace.stanford.edu/) 2021, hosted by Stanford University.
 
+I have mentored Abe Bohan Hou (JHU undergraduate, now a PhD student at Stanford), Matt Hexuan Wang (JHU undergraduate), and Jiacan Yu (JHU master’s student).
+
+## Awards & Honors
+
+- Amazon AI PhD Fellowship
+- ICLR 2026 Travel Grant
+- Michael J. Muuss Research Award (2023)
+- Best Paper Award, ENLSP Workshop at NeurIPS 2022
+- Pistritto Research Fellowship (2022)
+- Bloomberg Distinguished Professor Summer Program (2021)
+- Upsilon Pi Epsilon
+- National Olympiad in Informatics in Provinces, National 1st Prize Certification (2018)
+
 ## Service
 
 <!-- - Reviewing: ACL, NAACL, NeurIPS -->
-- Application Mentor, JHU CLSP pre-application support program
-- Curriculum Committee, Department of Computer Science, Johns Hopkins University
-- Recruitment Committee, Center for Language and Speech Processing, Johns Hopkins University
+- Application Mentor, JHU CLSP pre-application support program (2023–present)
+- Curriculum Committee, Department of Computer Science, Johns Hopkins University (2023–present)
+- Recruitment Committee, Center for Language and Speech Processing, Johns Hopkins University (2023–present)
 
 ## Misc
 
