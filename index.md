@@ -41,7 +41,7 @@ I'm always excited about collaborations. If you are interested in working togeth
 <!-- code for highlighting below -->
 <!-- <span style="background-color: #FFFF99;"></span> -->
 
-## Selected Works
+## Selected & Recent Works
 
 <!-- **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*. -->
 
@@ -68,7 +68,7 @@ I'm always excited about collaborations. If you are interested in working togeth
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong><a href="https://arxiv.org/abs/2604.09443">Many-Tier Instruction Hierarchy in LLM Agents</a></strong>
         <br><strong>Jingyu Zhang</strong>, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi.
-        <br><em>Findings of EMNLP 2026</em>
+        <br><em>EMNLP 2026 Findings</em>
         <p></p>
         <p>LLM agents receive instructions from many sources with varying levels of trust, but existing instruction hierarchy approaches assume only a few rigid role labels. We propose Many-Tier Instruction Hierarchy (ManyIH) for resolving conflicts among arbitrarily many privilege levels, and introduce ManyIH-Bench, the first benchmark for ManyIH spanning up to 12 levels of conflicting instructions.</p>
       </td>
@@ -162,13 +162,13 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 Taha Entesari, **Jingyu Zhang**, Daniel Khashabi, Mahyar Fazlyab. [Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218). *NeurIPS 2026*.
 
-Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict. *Findings of EMNLP 2026*.
+Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict. *EMNLP 2026 Findings*.
 
 Tianjian Li, **Jingyu Zhang**, William Jurayj, Xi Wang, Chuanyang Jin, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi. [Self-Compacting Language Model Agents](https://arxiv.org/abs/2606.23525). *NeurIPS 2026*.
 
 Alexander K. Saeri, Jess Graham, Michael Noetel, Peter Slattery, …, **Jingyu Zhang**, … (188 authors). Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts. *arXiv preprint*.
 
-**Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *Findings of EMNLP 2026*.
+**Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *EMNLP 2026 Findings*.
 
 Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *AAAI 2027 submission*.
 
@@ -176,11 +176,11 @@ Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer C
 
 Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over Mathematical Objects: On-Policy Reward Modeling and Test Time Aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
 
-Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *Findings of ACL 2026*.
+Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *ACL 2026 Findings*.
 
 **Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *ICLR 2026*.
 
-**Jingyu Zhang**, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson. [Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037). *Findings of EMNLP 2025*.
+**Jingyu Zhang**, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson. [Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037). *EMNLP 2025 Findings*.
 
 **Jingyu Zhang**, Jiacan Yu, Marc Marone, Benjamin Van Durme, Daniel Khashabi. [Certified Mitigation of Worst-Case LLM Copyright Infringement](https://arxiv.org/abs/2504.16046). *EMNLP 2025*.
 
@@ -190,7 +190,7 @@ Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Li
 
 Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi. [Rationalyst: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *ACL 2025*.
 
-Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *Findings of ACL 2025*.
+Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *ACL 2025 Findings*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Discriminating Self-Generated Responses](https://arxiv.org/abs/2404.04298). *AAAI 2025*.
 
@@ -200,18 +200,18 @@ Kevin Xu, Yeganeh Kordi, Kate Sanders, Yizhong Wang, Adam Byerly, **Jingyu Zhang
 
 Weiting Tan, **Jingyu Zhang**, Lingfeng Shen, Daniel Khashabi, Philipp Koehn. [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://arxiv.org/abs/2405.13274). *NeurIPS 2024*.
 
-Abe Bohan Hou, **Jingyu Zhang**, Yichen Wang, Daniel Khashabi, Tianxing He. [k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text](https://arxiv.org/abs/2402.11399). *Findings of ACL 2024*.
+Abe Bohan Hou, **Jingyu Zhang**, Yichen Wang, Daniel Khashabi, Tianxing He. [k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text](https://arxiv.org/abs/2402.11399). *ACL 2024 Findings*.
 
-Lingfeng Shen, Weiting Tan, Sihao Chen, Yunmo Chen, **Jingyu Zhang**, Haoran Xu, Boyuan Zheng, Philipp Koehn, Daniel Khashabi. [The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts](https://arxiv.org/abs/2401.13136). *Findings of ACL 2024*.
+Lingfeng Shen, Weiting Tan, Sihao Chen, Yunmo Chen, **Jingyu Zhang**, Haoran Xu, Boyuan Zheng, Philipp Koehn, Daniel Khashabi. [The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts](https://arxiv.org/abs/2401.13136). *ACL 2024 Findings*.
 
 Abe Bohan Hou\*, **Jingyu Zhang\***, Tianxing He\*, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov. [SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation](https://arxiv.org/abs/2310.03991). *NAACL 2024*.
 
-Xiao Pu, **Jingyu Zhang**, Xiaochuang Han, Yulia Tsvetkov, Tianxing He. [On the Zero-Shot Generalization of Machine-Generated Text Detectors](http://arxiv.org/abs/2310.05165). *Findings of EMNLP 2023*.
+Xiao Pu, **Jingyu Zhang**, Xiaochuang Han, Yulia Tsvetkov, Tianxing He. [On the Zero-Shot Generalization of Machine-Generated Text Detectors](http://arxiv.org/abs/2310.05165). *EMNLP 2023 Findings*.
 
 Tianxing He\*, **Jingyu Zhang\***, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://aclanthology.org/2023.acl-long.674). *ACL 2023 (oral)*. 
 <!-- **<span style="color:">*Oral Presentation*</span>**. -->
 
-**Jingyu Zhang**, Alexandra DeLucia, Chenyu Zhang, Mark Dredze. [Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning](https://aclanthology.org/2023.findings-acl.294). *Findings of ACL 2023*.
+**Jingyu Zhang**, Alexandra DeLucia, Chenyu Zhang, Mark Dredze. [Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning](https://aclanthology.org/2023.findings-acl.294). *ACL 2023 Findings*.
 
 **Jingyu Zhang**, James Glass, Tianxing He. [PCFG-based Natural Language Interface Improves Generalization for Controlled Text Generation](https://aclanthology.org/2023.starsem-1.27). *\*SEM 2023*. Preliminary version accepted at *2nd Workshop on Efficient Natural Language and Speech Processing (ENLSP), NeurIPS 2022*. **<span style="color:">*Best Paper Award*</span>**.
 
