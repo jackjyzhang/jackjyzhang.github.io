@@ -196,9 +196,9 @@ Alexander K. Saeri, Jess Graham, Michael Noetel, Peter Slattery, …, **Jingyu Z
 
 **Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *EMNLP 2026 Findings*.
 
-Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *AAAI 2027 submission*.
+Guangyao Dou, Luis Brena, Akhil Deo, William Jurayj, **Jingyu Zhang**, Nils Holzenberger, Benjamin Van Durme. [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443). *arXiv preprint*.
 
-Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *ACL ARR submission*.
+Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer Citations Always Better? Rethinking Granularity for Attributed Generation](https://arxiv.org/abs/2604.01432). *arXiv preprint*.
 
 Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over Mathematical Objects: On-Policy Reward Modeling and Test Time Aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
 
