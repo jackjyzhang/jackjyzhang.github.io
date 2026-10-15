@@ -4,13 +4,13 @@ layout: default
 
 I am a PhD candidate in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), proudly advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). My research is supported by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
 
-My research focuses on **post-training and alignment for LLM agents**, with an emphasis on ensuring safe and reliable model behavior. I study training and evaluation methods that enable robust generalization through reasoning over behavioral specifications and learning from interaction. Along these lines, my recent work includes reinforcement learning for [multi-agent collaboration](https://arxiv.org/abs/2510.08240), [enhancing safety controllability](https://arxiv.org/abs/2410.08968), and [stress-testing instruction hierarchy as complexity scales](https://arxiv.org/abs/2604.09443). My overarching research goal is to build trustworthy AI systems that can effectively collaborate with humans, complete economically valuable tasks, and accelerate scientific discovery.
+My research focuses on **post-training and alignment for LLM agents**, with an emphasis on ensuring safe and reliable model behavior. I study training and evaluation methods that enable robust generalization through reasoning over behavioral specifications and learning from interaction. Along these lines, my recent work includes reinforcement learning for [self-improving alignment](https://arxiv.org/abs/2610.07935), [multi-agent collaboration](https://arxiv.org/abs/2510.08240), [enhancing safety controllability](https://arxiv.org/abs/2410.08968), and [stress-testing instruction hierarchy as complexity scales](https://arxiv.org/abs/2604.09443). My overarching research goal is to build trustworthy AI systems that can effectively collaborate with humans (and other agents!), complete economically valuable tasks, and accelerate scientific discovery.
 
 I was an intern at Apple AIML, where I worked on Apple Foundation Model alignment collaborating with [Joseph Yitan Cheng](https://scholar.google.com/citations?user=kq0bsOwAAAAJ&hl=en) and [Shruti Palaskar](https://shrutijpalaskar.github.io/); a student researcher at [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) collaborating with [Hongyuan Zhan](https://sites.google.com/view/hongyuanzhan/home) and [Jason Weston](https://www.thespermwhale.com/jaseweston/); and a research intern and student researcher at Microsoft working with [Ahmed Elgohary Ghoneim](https://aagohary.github.io/).
 
 I completed my B.S. also from JHU with majors in Computer Science, Mathematics, Applied Mathematics, and minor in Economics. GO HOP! 💙🤍💙 During my undergrad, I collaborated with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) at JHU CLSP, [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) and [Tianxing He](https://cloudygoose.github.io/) at the University of Washington, and [Jim Glass](http://people.csail.mit.edu/jrg/) at MIT CSAIL. 
 
-I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`!
+I'm always excited about collaborations. If you are interested in working together, please feel free to drop me an email: `jzhan237[at]jhu.edu`.
 
 <aside class="job-market" aria-label="Job market announcement">
   <p class="job-market-text">🚨 I am on the industry job market, seeking <strong>research scientist roles starting in early 2027</strong>. My research focuses on LLM post-training, alignment and safety, and long-horizon agents. Please reach out if you see a fit!</p>
@@ -63,6 +63,18 @@ I'm always excited about collaborations. If you are interested in working togeth
   <tbody>
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/sigma.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2610.07935">SIGMA: Self-Improving Alignment Generalization from a Model Spec</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon A. Gatys, Joseph Yitan Cheng.
+        <br><em>arXiv Preprint</em>
+        <p></p>
+        <p>Current alignment methods depend on supervision from stronger models or curated data, which creates an external supervision bottleneck. We propose SIGMA, which enables a model strengthen its own safety reasoning from a Model Spec alone, through a two-stage spec-guided task synthesis and self-judged alignment training framework.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
         <img src="assets/img/manyih.png" alt="Image description" width="220">
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
@@ -83,6 +95,18 @@ I'm always excited about collaborations. If you are interested in working togeth
         <br><em>ICLR 2026</em>
         <p></p>
         <p>We introduce WaltzRL, a multi-agent RL framework that frames LLM safety as a positive-sum game between a conversation agent and a feedback agent. We introduce a novel Dynamic Improvement Reward to jointly train two agents to collaborate, and give feedback adaptively at inference. WaltzRL improves safety & reduces overrefusals without degrading general capabilities.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="assets/img/jbdistill.png" alt="Image description" width="220">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong><a href="https://arxiv.org/abs/2505.22037">Jailbreak Distillation: Renewable Safety Benchmarking</a></strong>
+        <br><strong>Jingyu Zhang</strong>, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson.
+        <br><em>EMNLP 2025 Findings</em>
+        <p></p>
+        <p>Static safety benchmarks quickly become saturated and contaminated as LLMs evolve. We propose Jailbreak Distillation, a framework that distills jailbreak attacks into high-quality, easily-updatable safety benchmarks. Built with only a small set of development models, JBDistill benchmarks generalize to 13 held-out models and significantly outperform existing safety benchmarks in effectiveness.</p>
       </td>
     </tr>
     <tr>
@@ -160,13 +184,15 @@ I'm always excited about collaborations. If you are interested in working togeth
 
 ## All Publications
 
+**Jingyu Zhang**, Shruti Palaskar, Daniel Khashabi, Benjamin Van Durme, Leon A. Gatys, Joseph Yitan Cheng. [SIGMA: Self-Improving Alignment Generalization from a Model Spec](https://arxiv.org/abs/2610.07935). *arXiv preprint*.
+
 Taha Entesari, **Jingyu Zhang**, Daniel Khashabi, Mahyar Fazlyab. [Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218). *NeurIPS 2026*.
 
-Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict. *EMNLP 2026 Findings*.
+Kaiser Sun, Bernal Jiménez Gutiérrez, Hongjun Liu, **Jingyu Zhang**, Jie Gao, Mark Dredze, Daniel Khashabi. [Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict](https://arxiv.org/abs/2610.12360). *EMNLP 2026 Findings*.
 
 Tianjian Li, **Jingyu Zhang**, William Jurayj, Xi Wang, Chuanyang Jin, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi. [Self-Compacting Language Model Agents](https://arxiv.org/abs/2606.23525). *NeurIPS 2026*.
 
-Alexander K. Saeri, Jess Graham, Michael Noetel, Peter Slattery, …, **Jingyu Zhang**, … (188 authors). Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts. *arXiv preprint*.
+Alexander K. Saeri, Jess Graham, Michael Noetel, Peter Slattery, …, **Jingyu Zhang**, … (188 authors). [Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts](https://arxiv.org/abs/2606.04490). *arXiv preprint*.
 
 **Jingyu Zhang**, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi. [Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443). *EMNLP 2026 Findings*.
 
@@ -176,7 +202,7 @@ Hexuan Wang, **Jingyu Zhang**, Benjamin Van Durme, Daniel Khashabi. [Are Finer C
 
 Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, **Jingyu Zhang**, Wenting Zhao. [Reasoning over Mathematical Objects: On-Policy Reward Modeling and Test Time Aggregation](https://arxiv.org/abs/2603.18886). *arXiv preprint*.
 
-Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *ACL 2026 Findings*.
+Hoang Phan, Xianjun Yang, Kevin Yao, **Jingyu Zhang**, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei. [Beyond Reasoning Gains: Mitigating General-Capability Forgetting in Large Reasoning Models](https://arxiv.org/abs/2510.21978). *ACL 2026 Findings*.
 
 **Jingyu Zhang**, Haozhu Wang, Eric Michael Smith, Sid Wang, Amr Sharaf, Mahesh Pasupuleti, Benjamin Van Durme, Daniel Khashabi, Jason Weston, Hongyuan Zhan. [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240). *ICLR 2026*.
 
@@ -188,9 +214,9 @@ Abe Bohan Hou, Hongru Du, Yichen Wang, **Jingyu Zhang**, Zixiao Wang, Paul Pu Li
 
 **Jingyu Zhang**, Ahmed Elgohary, Ahmed Magooda, Daniel Khashabi, Benjamin Van Durme. [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968). *ICLR 2025*.
 
-Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi. [Rationalyst: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044). *ACL 2025*.
+Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, **Jingyu Zhang**, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi. [Rationalyst: Mining Implicit Rationales for Process Supervision of Reasoning](https://arxiv.org/abs/2410.01044). *ACL 2025*.
 
-Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *ACL 2025 Findings*.
+Zhengping Jiang, **Jingyu Zhang**, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu, Benjamin Van Durme. [Core: Robust Factual Precision with Informative Sub-Claim Identification](https://arxiv.org/abs/2407.03572). *ACL 2025 Findings*.
 
 Dongwei Jiang, **Jingyu Zhang**, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi. [Self-(In)Correct: LLMs Struggle with Discriminating Self-Generated Responses](https://arxiv.org/abs/2404.04298). *AAAI 2025*.
 
