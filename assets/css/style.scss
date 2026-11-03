@@ -3,6 +3,21 @@
 
 @import "jekyll-theme-minimal";
 
+// The sidebar is min(15vw, 225px) wide, so scale the name with the viewport
+// to keep "Jingyu (Jack) Zhang" on one line (~9.7x the font size wide).
+header h1.site-title {
+  font-size: clamp(1.1em, 1.55vw, 1.65em);
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 960px) {
+  // Sidebar stacks above the content here and has plenty of room.
+  header h1.site-title {
+    font-size: 1.75em;
+    white-space: normal;
+  }
+}
+
 .job-market {
   margin: 20px 0 28px;
   padding: 14px 18px;
